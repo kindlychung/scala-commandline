@@ -23,7 +23,7 @@ publishArtifact in Test := false
 pomIncludeRepository := { _ => false  }
 
 pomExtra := (
-  <url>http://jsuereth.com/scala-arm</url>
+  <url>http://kaiyin.co.vu</url>
   <licenses>
     <license>
       <name>BSD-style</name>
@@ -32,13 +32,13 @@ pomExtra := (
     </license>
   </licenses>
   <scm>
-    <url>git@github.com:jsuereth/scala-arm.git</url>
-    <connection>scm:git:git@github.com:jsuereth/scala-arm.git</connection>
+    <url>https://github.com/kindlychung/scala-commandline</url>
+    <connection>https://github.com/kindlychung/scala-commandline</connection>
   </scm>
   <developers>
     <developer>
-      <id>jsuereth</id>
-      <name>Josh Suereth</name>
-      <url>http://jsuereth.com</url>
+      <id>kindlychung</id>
+      <name>Kaiyin Zhong</name>
+      <url>http://kaiyin.co.vu</url>
     </developer>
   </developers>)
