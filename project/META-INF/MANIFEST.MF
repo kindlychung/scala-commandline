@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Class-Path: scala-library-2.11.7.jar sbt-0.13.8.jar apply-macro-0.13.8
+ .jar command-0.13.8.jar run-0.13.8.jar sbinary_2.10-0.4.2.jar main-0.
+ 13.8.jar incremental-compiler-0.13.8.jar scala-pickling_2.10-0.10.0.j
+ ar compile-0.13.8.jar launcher-interface-0.13.8.jar jline-2.11.jar pr
+ ocess-0.13.8.jar scala-library.jar jawn-parser_2.10-0.6.0.jar scala-c
+ ompiler.jar jansi.jar test-interface-1.0.jar logging-0.13.8.jar jline
+ .jar main-settings-0.13.8.jar scala-reflect.jar compiler-ivy-integrat
+ ion-0.13.8.jar control-0.13.8.jar ivy-0.13.8.jar tasks-0.13.8.jar par
+ anamer-2.6.jar jsch-0.1.46.jar serialization_2.10-0.1.1.jar classpath
+ -0.13.8.jar ivy-2.3.0-sbt-fccfbd44c9f64523b61398a0155784dcbaeae28f.ja
+ r interface-0.13.8.jar json4s-ast_2.10-3.2.10.jar logic-0.13.8.jar cl
+ assfile-0.13.8.jar relation-0.13.8.jar test-agent-0.13.8.jar completi
+ on-0.13.8.jar testing-0.13.8.jar api-0.13.8.jar task-system-0.13.8.ja
+ r quasiquotes_2.10-2.0.1.jar cache-0.13.8.jar cross-0.13.8.jar json4s
+ -core_2.10-3.2.10.jar io-0.13.8.jar json4s-support_2.10-0.6.0.jar com
+ piler-integration-0.13.8.jar actions-0.13.8.jar persist-0.13.8.jar co
+ llections-0.13.8.jar tracking-0.13.8.jar scala-reflect-2.10.4.jar
+Main-Class: 
+
